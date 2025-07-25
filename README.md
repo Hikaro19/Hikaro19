@@ -6,12 +6,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/HIkaro19/HIkaro19/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
   <img width="10" />
