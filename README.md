@@ -9,23 +9,7 @@
 </div>
 <p align="center" dir="auto">
   
-<div align="center" dir="auto">
-<markdown-accessiblity-table data-catalyst=""><table>
-<thead>
-<tr>
-<th align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7283a75efe2000e82c2933c46b660abe77f1d0dea549cdf4af7a38cc93bec38a/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d6c6172616d693036267468656d653d646174655f6e69676874"><img src="https://camo.githubusercontent.com/7283a75efe2000e82c2933c46b660abe77f1d0dea549cdf4af7a38cc93bec38a/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d6c6172616d693036267468656d653d646174655f6e69676874" alt="" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=larami06&amp;theme=date_night" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/137c0f1c0985b6363d46dcc717d0159468aa12d655c1c6b6718f968bcbd506fb/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d6c6172616d693036267468656d653d646174655f6e69676874"><img src="https://camo.githubusercontent.com/137c0f1c0985b6363d46dcc717d0159468aa12d655c1c6b6718f968bcbd506fb/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d6c6172616d693036267468656d653d646174655f6e69676874" alt="" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=larami06&amp;theme=date_night" style="max-width: 100%;"></a></th>
-</tr>
-</thead>
-</table></markdown-accessiblity-table>
-<markdown-accessiblity-table data-catalyst=""><table>
-<thead>
-<tr>
-<th align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4bc29bfc4add03f486c0972404ad87f33165bd301a89a380109546893419e842/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6c6172616d693036267468656d653d646174655f6e69676874"><img src="https://camo.githubusercontent.com/4bc29bfc4add03f486c0972404ad87f33165bd301a89a380109546893419e842/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6c6172616d693036267468656d653d646174655f6e69676874" alt="" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larami06&amp;theme=date_night" style="max-width: 100%;"></a></th>
-</tr>
-</thead>
-</table></markdown-accessiblity-table>
-</div> 
-</article>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
